@@ -52,3 +52,4 @@ Git отслеживает файлы в трёх основных раздел�
 
 https://tproger.ru/translations/beginner-git-cheatsheet/
 https://www.youtube.com/watch?v=XeK0UylJYu8&list=UUKPbiit_j8ycmkutM0wVzdA&index=3
+https://habr.com/ru/post/541258/
